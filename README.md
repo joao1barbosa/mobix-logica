@@ -17,4 +17,4 @@ Passos de desenvolvimento:
 
 
 
-Obs.: O arquivo ampulheta.js possui menor tempo de existência porque inicialmente o criei com outro nome (testes.js) e no commit "Ended" mudei o nome, excluindo do repositório a versão anterior.
+Obs.: Realizei pequenas mudanças no código (apenas refatorações) depois de ter enviado o desafio por email. Estas estão nesse reposiório da branch **cleanCodeOn**.
