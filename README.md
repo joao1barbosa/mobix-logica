@@ -17,4 +17,4 @@ Passos de desenvolvimento:
 
 
 
-Obs.: Realizei pequenas mudanças no código (apenas refatorações) depois de ter enviado o desafio por email. Estas estão nesse reposiório da branch **cleanCodeOn**.
+Obs.: Realizei pequenas mudanças no código (apenas refatorações) depois de ter enviado o desafio por email. Estas estão nesse repositório na branch **cleanCodeOn**.
