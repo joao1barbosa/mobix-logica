@@ -1,7 +1,7 @@
 # Desafio de Lógica (Mobix)
-- O desafio foi extremamente interessante porém confeso que não o realzei no tempo que gostaria.
+- O desafio foi extremamente interessante porém confeso que não o realizei no tempo que gostaria.
 
-- Comentei oi código o máximo que pude para facilitar o entendimento.
+- Comentei o código o máximo que pude para facilitar o entendimento.
 
 Passos de desenvolvimento:
 
